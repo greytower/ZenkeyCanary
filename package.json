@@ -1,0 +1,20 @@
+{
+  "name": "unofficial-zenkey-nodejs-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "canary.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "randomstring": "^1.2.1"
+  }
+}
